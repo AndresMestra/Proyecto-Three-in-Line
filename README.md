@@ -6,5 +6,4 @@ Integrantes
 <<<<<<< HEAD
 - Liz Elena Pérez Carrascal (cuenta alterna)
 =======
-- Neider Polo Hernadez 
->>>>>>> 329aee146dbd3e6c55e9f3a8d1d4b99b943ddbd7
+- Neider Polo Hernandez (cuenta alterna)
