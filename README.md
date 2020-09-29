@@ -7,4 +7,5 @@ Integrantes
 - Liz Elena Pérez Carrascal (cuenta alterna)
 =======
 - Neider Polo Hernandez (cuenta alterna)
-Pilar Ortega Montes (cuenta alterna)
+
+
